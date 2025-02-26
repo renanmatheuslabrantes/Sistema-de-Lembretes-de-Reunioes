@@ -109,4 +109,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para m
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome]
+Desenvolvido por Renan Matheus
